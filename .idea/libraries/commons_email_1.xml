@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="commons-email-1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../commons-email-1.5-bin/commons-email-1.5" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../commons-email-1.5-bin/commons-email-1.5/apidocs" />
+      <root url="jar://$PROJECT_DIR$/../commons-email-1.5-bin/commons-email-1.5/commons-email-1.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../commons-email-1.5-bin/commons-email-1.5" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../commons-email-1.5-bin/commons-email-1.5" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../commons-email-1.5-bin/commons-email-1.5" recursive="false" type="SOURCES" />
+  </library>
+</component>
